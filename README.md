@@ -13,7 +13,7 @@ The schema consists of the following entities and their relationships:
 - **Categories_Dishes**: A junction table for the many-to-many relationship between categories and dishes.
 
 ### Entity Relationship Diagram
-An ERD for this database can be visualized using the `dbdiagram.io` code provided in the `dbdiagram.io cod` file.
+An ERD (Entity Relationship Diagram) for this database can be visualized using the `dbdiagram.io` code provided in the `dbdiagram.io cod` file.
 
 ## SQL Schema
 The SQL schema includes `CREATE TABLE` statements for PostgreSQL, defining the structure for each table, including primary keys, data types, and foreign key relationships.
